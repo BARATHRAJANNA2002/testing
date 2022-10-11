@@ -1,4 +1,4 @@
-##a = input("enter a name: ")
+###a = input("enter a name: ")
 ##
 ##print(a)
 ##print("-"*len(a))
